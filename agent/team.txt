@@ -1,0 +1,26 @@
+Scizor @ Metal Coat
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Bullet Punch
+- Swords Dance
+- U-turn
+- Close Combat
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+EVs: 252 HP / 252 Atk / 4 Def
+Impish Nature
+- Crunch
+- Rock Slide
+- Ice Punch
+- Earthquake
+
+Dragapult @ Choice Band
+Ability: Clear Body
+EVs: 252 Atk / 4 SpD / 252 Spe
+Hasty Nature
+- Dragon Darts
+- Flamethrower
+- U-turn
+- Phantom Force

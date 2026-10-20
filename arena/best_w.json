@@ -1,0 +1,21 @@
+{
+ "w": {
+  "stab": 1.861,
+  "tech": 1.913,
+  "metal": 1.421,
+  "band": 1.724,
+  "eff_exp": 0.511,
+  "danger_stab": 1.834,
+  "danger_max": 5.92,
+  "retreat_hp": 44.965,
+  "retreat_margin": 1.644,
+  "sd_own_hp": 58.177,
+  "sd_max_stage": 3,
+  "sd_cap": 1,
+  "sd_foe_hp": 81.764,
+  "bp_finish_hp": 56.126,
+  "bp_finish_mult": 3,
+  "bench_hp_base": 0
+ },
+ "select": 600
+}
